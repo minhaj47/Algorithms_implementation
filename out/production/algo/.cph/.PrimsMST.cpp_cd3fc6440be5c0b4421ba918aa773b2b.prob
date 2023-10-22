@@ -1,0 +1,1 @@
+{"name":"Local: PrimsMST","url":"/home/user/Desktop/dev/algorithm /PrimsMST.cpp","tests":[{"id":1678933283763,"input":"6\n9\n1 2 2\n1 4 1\n3 6 8\n3 4 5\n5 4 9\n5 1 4\n2 4 3\n3 2 3\n2 6 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/user/Desktop/dev/algorithm /PrimsMST.cpp","group":"local","local":true}

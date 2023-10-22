@@ -1,0 +1,1 @@
+{"name":"Local: LongestIncreasingSubsequence","url":"/home/user/Desktop/dev/algorithm /LongestIncreasingSubsequence.cpp","tests":[{"id":1683124168290,"input":"11\n15 4 9 5 2 6 10 9 2 100 105","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/user/Desktop/dev/algorithm /LongestIncreasingSubsequence.cpp","group":"local","local":true}
